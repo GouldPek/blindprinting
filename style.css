@@ -1,0 +1,27 @@
+body {
+    max-height: 40vh !important;
+}
+
+.promo {
+    margin-top: 1rem;
+}
+
+.hero.is-primary {
+    background-color: #ff0000;
+}
+
+.has-background-black-bis {
+    background-color: #ffffff !important;
+}
+
+.error-panel {
+    padding-bottom: 10px;
+}
+
+.face-elem {
+    color: rgb(255, 0, 0) !important;
+}
+
+.has-text-danger {
+    color: #fff !important;
+}
